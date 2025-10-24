@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gesug\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_From_test\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA4EA4F-263F-411B-AE88-D96319974F94}|test\\test.csproj|c:\\users\\gesug\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_from_test\\test\\test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA4EA4F-263F-411B-AE88-D96319974F94}|test\\test.csproj|solutionrelative:test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA4EA4F-263F-411B-AE88-D96319974F94}|test\\test.csproj|c:\\users\\gesug\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_from_test\\test\\test\\testbottn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA4EA4F-263F-411B-AE88-D96319974F94}|test\\test.csproj|solutionrelative:test\\testbottn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA4EA4F-263F-411B-AE88-D96319974F94}|test\\test.csproj|c:\\users\\gesug\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_from_test\\test\\test\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA4EA4F-263F-411B-AE88-D96319974F94}|test\\test.csproj|solutionrelative:test\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA4EA4F-263F-411B-AE88-D96319974F94}|test\\test.csproj|c:\\users\\gesug\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_from_test\\test\\test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDA4EA4F-263F-411B-AE88-D96319974F94}|test\\test.csproj|solutionrelative:test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gesug\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_From_test\\test\\test\\Form1.cs",
+              "RelativeDocumentMoniker": "test\\Form1.cs",
+              "ToolTip": "C:\\Users\\gesug\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_From_test\\test\\test\\Form1.cs*",
+              "RelativeToolTip": "test\\Form1.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:55:36.967Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testbottn.cs",
+              "DocumentMoniker": "C:\\Users\\gesug\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_From_test\\test\\test\\testbottn.cs",
+              "RelativeDocumentMoniker": "test\\testbottn.cs",
+              "ToolTip": "C:\\Users\\gesug\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_From_test\\test\\test\\testbottn.cs",
+              "RelativeToolTip": "test\\testbottn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T05:06:45.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gesug\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_From_test\\test\\test\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "test\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gesug\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_From_test\\test\\test\\Form1.Designer.cs",
+              "RelativeToolTip": "test\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:46:36.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\gesug\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_From_test\\test\\test\\Form1.cs",
+              "RelativeDocumentMoniker": "test\\Form1.cs",
+              "ToolTip": "C:\\Users\\gesug\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_From_test\\test\\test\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]*",
+              "RelativeToolTip": "test\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T03:18:48.177Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
